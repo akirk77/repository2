@@ -34,7 +34,7 @@ void leap_year() { //determines whether input year is a leap year
 		cout << x << " is indeed a leap year\n"; //mod 4 to check for divisibility
 	}
 	else {
-		cout << x << " is unfortunately not a leap year\r\n";
+		cout << x << " is unfortun a leap year\r\n";
 	}
 }
 
