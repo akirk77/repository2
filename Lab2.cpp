@@ -14,7 +14,7 @@ using namespace std;
 void factorial() { //calculates factorial of input
 	unsigned short x;
 	unsigned long y;
-	cout << "Pls input an unsigned short integer smaller than 12: ";
+	cout << "input an unsigned short integer smaller than 12: ";
 	fflush(stdout);
 	cin >> x;
 	if(x > 12) printf("Sorry, your number is too big\r\n");
